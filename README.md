@@ -305,9 +305,7 @@ Dynamic Programming
 
 <!-- Replace this URL with your self-hosted Activity Graph URL once deployed -->
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NipurnCoder&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
+<p align="center"> <img src="./profile/activity.svg" alt="GitHub Activity Graph" width="100%"/> </p>
 
 ---
 
@@ -315,10 +313,7 @@ Dynamic Programming
 
 <!-- Replace these URLs with your self-hosted GitHub Readme Stats deployment -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipurnCoder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+<p align="center"> <img src="./profile/stats.svg" alt="GitHub Statistics" width="49%"/> <img src="./profile/top-langs.svg" alt="Top Languages" width="49%"/> </p>
 
 ---
 
@@ -334,9 +329,7 @@ Dynamic Programming
 
 <!-- Replace this with your GitHub Actions generated trophy.svg -->
 
-<p align="center">
-  <img src="./trophy.svg" width="90%"/>
-</p>
+<p align="center"> <img src="./profile/trophy.svg" alt="GitHub Trophies" width="100%"/> </p>
 
 ---
 
