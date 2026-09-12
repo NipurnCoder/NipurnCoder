@@ -1,70 +1,99 @@
 # 👨‍💻 NIPURN
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=B.Tech+Computer+Science+Engineering+Student;Software+Developer+in+Progress;DSA+%7C+AI+%7C+Machine+Learning;Building+Real-World+Projects;Learn+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Improve" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Engineering+Student;Software+Developer+in+Progress;DSA+%7C+AI+%7C+Machine+Learning;Building+Real-World+Projects;Learn+%E2%80%A2+Build+%E2%80%A2+Solve+%E2%80%A2+Improve" />
+</p>
+
+<p align="center">
+  <b>Computer Science Student • Problem Solver • Builder • AI/ML Explorer</b>
+</p>
+
+<p align="center">
+  <a href="#-about-me">About</a> •
+  <a href="#-featured-projects">Projects</a> •
+  <a href="#-dsa-journey">DSA</a> •
+  <a href="#-tech-stack">Tech Stack</a> •
+  <a href="#-github-activity">GitHub</a> •
+  <a href="#-goals">Goals</a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NipurnCoder">
-    <img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/NipurnCoder?tab=repositories">
-    <img src="https://img.shields.io/badge/Projects-Explore-00F7FF?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/Projects-Explore-00F7FF?style=for-the-badge&logo=github&logoColor=black"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=NipurnCoder&style=for-the-badge&color=blue" />
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=NipurnCoder&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-## 🧠 ABOUT ME
+## 🧭 QUICK NAVIGATION
 
-I'm a **B.Tech Computer Science Engineering student** passionate about building software, solving algorithmic problems, and exploring Artificial Intelligence.
+| 🧠 Learn About Me                        | 🚀 Explore My Work             | 📊 Track My Progress                 |
+| ---------------------------------------- | ------------------------------ | ------------------------------------ |
+| [About Me](#-about-me)                   | [RecoverX](#-recoverx)         | [DSA Journey](#-dsa-journey)         |
+| [Tech Stack](#-tech-stack)               | [NeuralRetail](#-neuralretail) | [GitHub Activity](#-github-activity) |
+| [Developer Mindset](#-developer-mindset) | [GameHub](#-gamehub)           | [2026 Goals](#-2026-goals)           |
 
-My current focus is on combining:
+---
 
-**Data Structures & Algorithms + Software Development + AI/ML + Real-World Projects**
+# 🧠 ABOUT ME
 
-I believe in learning by doing — understanding concepts, implementing them, solving problems, building projects, debugging them, and continuously improving.
+I'm a **B.Tech Computer Science Engineering student** focused on becoming a strong software developer through continuous problem solving, project development, and practical experimentation.
 
-```cpp
-class Developer {
+My current learning path combines:
 
-public:
-
-    string name = "NIPURN";
-    string field = "Computer Science Engineering";
-
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Software Development",
-        "Problem Solving"
-    };
-
-    string mindset = "Learn → Build → Solve → Improve";
-
-};
+```text
+              ┌──────────────────────┐
+              │  COMPUTER SCIENCE    │
+              └──────────┬───────────┘
+                         ↓
+        ┌─────────────────────────────────┐
+        │                                 │
+        ↓                                 ↓
+   🧠 DSA & CP                        💻 DEVELOPMENT
+        │                                 │
+        ↓                                 ↓
+   Problem Solving                  Backend / APIs
+        │                                 │
+        └──────────────┬──────────────────┘
+                       ↓
+                  🤖 AI / ML
+                       ↓
+                🚀 REAL PROJECTS
 ```
+
+### 💡 My Philosophy
+
+> **Don't just learn technology. Build something with it.**
+
+My workflow is simple:
+
+**Learn → Understand → Implement → Solve → Build → Debug → Improve**
 
 ---
 
 # ⚡ WHAT I DO
 
 ```text
-🧠 Solve        → Data Structures & Algorithms
-💻 Build        → Full-Stack & Backend Projects
-🤖 Explore      → AI / Machine Learning
-📊 Analyze      → Data & Business Intelligence
-🚀 Deploy       → Practical Applications
-📚 Learn        → New Technologies Every Day
+🧠 SOLVE       → Data Structures & Algorithms
+💻 BUILD       → Software & Backend Applications
+🤖 EXPLORE     → Artificial Intelligence / Machine Learning
+📊 ANALYZE     → Data & Business Intelligence
+🚀 DEPLOY      → Practical Applications
+📚 LEARN       → New Technologies Every Day
 ```
 
 ---
 
 # 🛠️ TECH STACK
 
-### 💻 Programming Languages
+### 💻 Programming
 
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
@@ -80,7 +109,7 @@ public:
 
 `Machine Learning` • `KMeans` • `Prophet` • `SHAP` • `RFM Analysis` • `Data Analysis`
 
-### 🗄️ Database & Tools
+### 🗄️ Database & Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
@@ -88,11 +117,111 @@ public:
 
 ---
 
-# 🧩 DSA JOURNEY
+# 🚀 FEATURED PROJECTS
 
-I'm actively strengthening my problem-solving skills through **LeetCode and structured DSA revision**.
+> Building projects isn't just about writing code — it's about solving a problem.
+
+---
+
+## 💠 RecoverX
+
+### **AI Revenue Recovery Agent**
+
+**Detect → Decide → Recover**
+
+RecoverX is an AI-powered revenue recovery system designed to identify **revenue at risk**, select appropriate recovery strategies, and execute controlled recovery workflows.
+
+### 🔥 What it does
+
+* 💰 Detects revenue-at-risk transactions
+* 🤖 Selects recovery strategies
+* 📊 Prioritizes recovery opportunities
+* 🔗 Simulates payment recovery
+* 👤 Supports human approval
+* 🧾 Maintains an audit trail
+* 📈 Tracks recovery analytics
+* ⚙️ Provides a FastAPI backend
+* 🎨 Provides an interactive Streamlit dashboard
+
+### 🧰 Stack
+
+`Python` `FastAPI` `Streamlit` `AI Agents` `Data Analysis`
+
+### 🔗 Explore
+
+<p>
+  <a href="https://github.com/NipurnCoder/RecoverX">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-RecoverX-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+## 🛍️ NeuralRetail
+
+### **AI-Powered Retail Analytics Platform**
+
+NeuralRetail combines customer intelligence, forecasting, churn analysis, and inventory optimization into an interactive analytics platform.
+
+### 🔥 What it does
+
+* 👥 RFM customer segmentation
+* 🤖 KMeans clustering
+* 📈 Sales forecasting
+* 🔮 Prophet forecasting
+* 🧠 SHAP explainability
+* 📦 Inventory optimization
+* 📊 ABC analysis
+* 🧮 Economic Order Quantity
+* 🛡️ Safety Stock calculation
+* 🔄 Reorder Point analysis
+
+### 🧰 Stack
+
+`Python` `Streamlit` `Machine Learning` `KMeans` `Prophet` `SHAP`
+
+### 🔗 Explore
+
+<p>
+  <a href="https://github.com/NipurnCoder/NeuralRetail">
+    <img src="https://img.shields.io/badge/💻%20Source%20Code-NeuralRetail-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://neuralretail-qtssqfjelxkmmnlf936c5k.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Open-00F7FF?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+## 🎮 GameHub
+
+### **9 Games — One Java Application**
+
+GameHub is a Java application containing **9 different games**, created to strengthen Java programming and Object-Oriented Programming concepts.
+
+### 🔥 Highlights
+
+```text
+🎮 9 Games
+☕ Java
+🧱 Object-Oriented Programming
+🧩 Modular Game Logic
+💻 Application Development
+```
+
+> 🔗 GameHub repository link will be added when the repository is published.
+
+---
+
+# 🧠 DSA JOURNEY
+
+I'm actively strengthening my algorithmic thinking through **LeetCode + structured DSA revision + GitHub documentation**.
 
 ### 📚 Topics
+
+<details>
+<summary><b>Click to expand DSA topics</b></summary>
 
 ```text
 Arrays
@@ -101,55 +230,63 @@ Binary Search
 Sorting
 Two Pointers
 Sliding Window
+
 Linked Lists
-Stack
-Queue
+Stacks
+Queues
+
 Trees
 Binary Search Trees
+
 Graphs
 BFS
 DFS
 Cycle Detection
 Topological Sort
+
 Recursion
 Backtracking
 Dynamic Programming
 ```
 
+</details>
+
 ### 🔥 Current Focus
 
 ```text
-Graph Algorithms
-      ↓
-BFS / DFS
-      ↓
+GRAPH ALGORITHMS
+       ↓
+     BFS
+       ↓
+     DFS
+       ↓
 Cycle Detection
-      ↓
+       ↓
 Topological Sorting
-      ↓
+       ↓
 Advanced Graph Problems
-      ↓
+       ↓
 Dynamic Programming
 ```
 
-### 🎯 My DSA Workflow
+### 🎯 My Problem-Solving Workflow
 
 ```text
-Problem
-   ↓
-Understand
-   ↓
-Find Pattern
-   ↓
-Implement
-   ↓
-Dry Run
-   ↓
-Time & Space Complexity
-   ↓
-Revise
-   ↓
-GitHub Commit
+       PROBLEM
+          ↓
+      UNDERSTAND
+          ↓
+     FIND PATTERN
+          ↓
+      IMPLEMENT
+          ↓
+       DRY RUN
+          ↓
+ TIME & SPACE ANALYSIS
+          ↓
+        REVISE
+          ↓
+    GITHUB COMMIT
 ```
 
 <p align="center">
@@ -162,99 +299,30 @@ GitHub Commit
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 📊 GITHUB ACTIVITY
 
-## 💠 RecoverX — AI Revenue Recovery Agent
+## 📈 Contribution Graph
 
-### Detect → Decide → Recover
-
-RecoverX is an AI-powered revenue recovery system designed to identify **revenue at risk**, determine appropriate recovery strategies, and execute controlled recovery workflows.
-
-### 🔥 Features
-
-* 💰 Revenue-at-risk detection
-* 🤖 AI-powered recovery strategy selection
-* 📊 Recovery opportunity prioritization
-* 🔗 Payment recovery simulation
-* 👤 Human approval workflow
-* 🧾 Audit trail
-* 📈 Recovery analytics
-* ⚙️ FastAPI backend
-* 🎨 Streamlit dashboard
-
-### 🧰 Built With
-
-`Python` `FastAPI` `Streamlit` `AI Agents` `Data Analysis`
-
-### 🔗 Links
-
-**Repository:**
-https://github.com/NipurnCoder/RecoverX
-
----
-
-# 🛍️ NeuralRetail
-
-### AI-Powered Retail Analytics Platform
-
-NeuralRetail is an end-to-end retail analytics platform combining **customer segmentation, sales forecasting, churn analysis, and inventory optimization**.
-
-### 🔥 Features
-
-* 👥 RFM Customer Segmentation
-* 🤖 KMeans Clustering
-* 📈 Sales Forecasting
-* 🔮 Prophet Forecasting
-* 🧠 SHAP Explainability
-* 📦 Inventory Optimization
-* 📊 ABC Analysis
-* 🧮 Economic Order Quantity
-* 🛡️ Safety Stock
-* 🔄 Reorder Point Analysis
-
-### 🧰 Built With
-
-`Python` `Streamlit` `Machine Learning` `KMeans` `Prophet` `SHAP`
-
-### 🔗 Links
-
-**Repository:**
-https://github.com/NipurnCoder/NeuralRetail
-
-**Live Demo:**
-https://neuralretail-qtssqfjelxkmmnlf936c5k.streamlit.app/
-
----
-
-# 🎮 GameHub
-
-### 9 Games — One Java Application
-
-GameHub is a Java-based application containing **9 different games**, built to strengthen Java programming and Object-Oriented Programming concepts.
-
-### 🔥 Highlights
-
-* 🎮 9 Games
-* ☕ Java
-* 🧱 Object-Oriented Programming
-* 🧩 Modular Structure
-* 🧠 Game Logic
-* 💻 Console/Application Development
-
-> Repository link will be added here once the GameHub repository is published.
-
----
-
-# 📊 GITHUB ANALYTICS
+<!-- Replace this URL with your self-hosted Activity Graph URL once deployed -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipurnCoder&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NipurnCoder&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
 
 ---
 
-# 🔥 CONTRIBUTION STREAK
+## 📊 GitHub Analytics
+
+<!-- Replace these URLs with your self-hosted GitHub Readme Stats deployment -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NipurnCoder&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipurnCoder&theme=tokyonight&hide_border=true"/>
@@ -262,52 +330,46 @@ GameHub is a Java-based application containing **9 different games**, built to s
 
 ---
 
-# 🏆 GITHUB TROPHIES
+## 🏆 GitHub Trophies
+
+<!-- Replace this with your GitHub Actions generated trophy.svg -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NipurnCoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+  <img src="./trophy.svg" width="90%"/>
 </p>
 
 ---
 
-# 📈 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NipurnCoder&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-# 🧭 2026 LEARNING ROADMAP
+# 🧭 2026 ROADMAP
 
 ```text
-                 ┌────────────────────┐
-                 │    DSA MASTERY     │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │  GRAPH ALGORITHMS  │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ DYNAMIC PROGRAMMING│
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │     AI / ML        │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ BACKEND DEVELOPMENT│
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │   SYSTEM DESIGN    │
-                 └─────────┬──────────┘
-                           ↓
-                 ┌────────────────────┐
-                 │ INDUSTRY READY 🚀  │
-                 └────────────────────┘
+┌──────────────────────────┐
+│      DSA FOUNDATION      │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│    GRAPH ALGORITHMS      │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│ DYNAMIC PROGRAMMING      │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│        AI / ML           │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│ BACKEND DEVELOPMENT      │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│     SYSTEM DESIGN        │
+└────────────┬─────────────┘
+             ↓
+┌──────────────────────────┐
+│     INDUSTRY READY 🚀    │
+└──────────────────────────┘
 ```
 
 ---
@@ -319,6 +381,7 @@ GameHub is a Java-based application containing **9 different games**, built to s
 * Data Structures & Algorithms
 * Graph Algorithms
 * BFS / DFS
+* Cycle Detection
 * Topological Sorting
 * Advanced LeetCode Problems
 * Git & GitHub
@@ -336,53 +399,24 @@ GameHub is a Java-based application containing **9 different games**, built to s
 
 # 🎯 2026 GOALS
 
-```text
-☑ Build a strong DSA foundation
-☑ Solve more LeetCode problems
-☑ Master Graph Algorithms
-☐ Master Dynamic Programming
-☐ Build more production-style applications
-☐ Improve Backend Development
-☐ Deepen AI / ML knowledge
-☐ Learn System Design
-☐ Build an internship & placement-ready portfolio
-```
+| Goal                                   | Status         |
+| -------------------------------------- | -------------- |
+| 🧠 Build strong DSA foundation         | 🔄 In Progress |
+| 💻 Solve more LeetCode problems        | 🔄 In Progress |
+| 🕸️ Master Graph Algorithms            | 🔄 In Progress |
+| 🧩 Master Dynamic Programming          | ⏳ Next         |
+| 🚀 Build production-style applications | 🔄 In Progress |
+| 🤖 Deepen AI / ML knowledge            | 🔄 In Progress |
+| ⚙️ Improve Backend Development         | ⏳ Next         |
+| 🏗️ Learn System Design                | ⏳ Next         |
+| 💼 Become internship & placement ready | 🎯 Target      |
 
 ---
 
-# 💡 BUILDING PHILOSOPHY
+# 🧩 DEVELOPER MINDSET
 
-I don't want my GitHub to be just a collection of tutorial projects.
-
-I want every project to answer one question:
-
-> **"What real problem does this solve?"**
-
-My development cycle:
-
-```text
-IDEA
-  ↓
-RESEARCH
-  ↓
-DESIGN
-  ↓
-BUILD
-  ↓
-DEBUG
-  ↓
-TEST
-  ↓
-DEPLOY
-  ↓
-DOCUMENT
-  ↓
-IMPROVE
-```
-
----
-
-# 🧠 DEVELOPER MINDSET
+<details>
+<summary><b>⚡ My Rules</b></summary>
 
 ```text
 01. Don't memorize → Understand.
@@ -393,14 +427,43 @@ IMPROVE
 
 04. Don't stop at "it works" → Improve it.
 
-05. Don't compare your progress with others → Improve your own.
+05. Don't compare your progress with others
+    → Improve your own.
 
 06. Consistency > Motivation.
 ```
 
+</details>
+
 ---
 
-# 📌 QUICK PROFILE
+# 🔧 HOW I BUILD
+
+```text
+IDEA
+ ↓
+RESEARCH
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+DEBUG
+ ↓
+TEST
+ ↓
+DEPLOY
+ ↓
+DOCUMENT
+ ↓
+IMPROVE
+```
+
+Every project is an opportunity to understand something more deeply.
+
+---
+
+# 📌 DEVELOPER SNAPSHOT
 
 | Category             | Details               |
 | -------------------- | --------------------- |
@@ -437,32 +500,32 @@ IMPROVE
 
 ---
 
-# ⚡ CODE. SOLVE. BUILD. REPEAT.
+# 💬 A LITTLE ABOUT MY JOURNEY
+
+```text
+                 LEARN
+                   ↓
+                 BUILD
+                   ↓
+                 SOLVE
+                   ↓
+                 DEBUG
+                   ↓
+                 IMPROVE
+                   ↓
+                 REPEAT
+```
+
+I'm building my skills **one problem, one project, and one commit at a time.**
+
+---
+
+# ⚡ CODE • SOLVE • BUILD • REPEAT
 
 <p align="center">
-
-### 🚀 Building my skills one problem, one project, and one commit at a time.
-
-**The journey is still under development...**
-
+  <b>🚀 The journey is still under development...</b>
 </p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-
-<!--
-**NipurnCoder/NipurnCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
