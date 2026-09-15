@@ -2,308 +2,520 @@
 
 # 👨‍💻 NIPURN
 
-### `Computer Science Student • DSA Enthusiast • AI/ML Developer`
+### `Computer Science Student • DSA Enthusiast • AI/ML Explorer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Building+%7C+Learning+%7C+Improving;DSA+%7C+AI%2FML+%7C+Backend;Turning+Ideas+into+Working+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=3000\&pause=1000\&color=00F7A6\&center=true\&vCenter=true\&width=800\&lines=💻+Building+Practical+Applications;🧩+Solving+DSA+Problems;🤖+Exploring+AI+%26+Machine+Learning;⚙️+Learning+Backend+Development;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
 <br>
 
 <a href="https://github.com/NipurnCoder">
-  <img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://leetcode.com/">
-  <img src="https://img.shields.io/badge/LeetCode-DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+<a href="https://github.com/NipurnCoder/DSA-Practice">
+<img src="https://img.shields.io/badge/DSA-Practice-00F7A6?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=NipurnCoder&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=NipurnCoder&style=for-the-badge&color=00f7a6" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## 🧠 About Me
+<div align="center">
 
-```cpp
-class Developer {
-public:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-    string name = "Nipurn";
-    string role = "Computer Science Student";
+</div>
 
-    vector<string> interests = {
-        "Data Structures & Algorithms",
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Backend Development"
-    };
-
-    string mindset =
-        "Learn → Build → Break → Fix → Improve";
-};
-```
-
-🎓 Computer Science student focused on building strong fundamentals.
-
-💻 Solving problems with **C++ and Data Structures & Algorithms**.
-
-🤖 Exploring **AI/ML and intelligent applications**.
-
-⚙️ Learning **backend development and system design**.
-
-🚀 Building projects to turn concepts into practical solutions.
-
----
-
-## ⚡ What I'm Currently Doing
+## 🧑‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
 
-### 🧩 DSA
+<td width="55%" valign="top">
 
-* Solving LeetCode problems
-* Graphs & advanced algorithms
-* BFS / DFS
-* Cycle Detection
-* Topological Sort
-* Preparing for technical interviews
+<br>
+
+```cpp
+const developer = {
+    name: "Nipurn",
+    education: "B.Tech CSE",
+    
+    focus: {
+        dsa: true,
+        ai_ml: true,
+        backend: true
+    },
+
+    languages: {
+        primary: "C++",
+        others: [
+            "Java",
+            "Python",
+            "JavaScript"
+        ]
+    },
+
+    currentlyLearning: [
+        "Graphs",
+        "Dynamic Programming",
+        "AI / ML",
+        "Backend Development",
+        "System Design"
+    ],
+
+    goal: "Become Internship & Placement Ready 🚀",
+
+    philosophy:
+        "Learn → Build → Improve"
+};
+```
 
 </td>
 
-<td width="50%">
+<td width="45%" valign="middle">
 
-### 🤖 Development
+<div align="center">
 
-* AI / ML
-* Backend APIs
-* FastAPI
-* Streamlit
-* Git & GitHub
-* Production-oriented projects
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
+
+<br><br>
+
+### 💭 My Focus
+
+**Problem Solving**
+
+**Practical Development**
+
+**Continuous Learning**
+
+**Building Real Applications**
+
+</div>
 
 </td>
+
 </tr>
 </table>
-
----
-
-## 📚 DSA Journey
-
-```text
-Arrays
-  ↓
-Strings
-  ↓
-Searching & Sorting
-  ↓
-Linked Lists
-  ↓
-Stack & Queue
-  ↓
-Trees
-  ↓
-BST
-  ↓
-Graphs
-  ↓
-BFS / DFS
-  ↓
-Cycle Detection
-  ↓
-Topological Sort
-  ↓
-Dynamic Programming
-```
-
-### 🔥 My Problem-Solving Workflow
-
-`Understand` → `Find Pattern` → `Code` → `Dry Run` → `Complexity` → `Revise` → `Commit`
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript" />
-</p>
-
-### Web & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi" />
-</p>
-
-### AI / ML
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-`K-Means` • `RFM Analysis` • `Prophet` • `SHAP` • `Forecasting`
-
-### Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="./profile/stats.svg" width="49%" />
-  <img src="./profile/top-langs.svg" width="49%" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="./profile/activity.svg" width="100%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="./profile/trophy.svg" width="100%" />
-</p>
-
----
-
-## 🎯 2026 Roadmap
-
-| Area             | Progress / Goal                             |
-| ---------------- | ------------------------------------------- |
-| 🧩 DSA           | Strengthen fundamentals + advanced problems |
-| 🌐 Backend       | APIs + Architecture                         |
-| 🤖 AI/ML         | Build practical intelligent systems         |
-| 🧠 System Design | Learn scalable application design           |
-| ☁️ Cloud         | Deployment & infrastructure                 |
-| 💼 Career        | Internship & placement preparation          |
-
----
-
-## 🚀 Goals
-
-```text
-✓ Build Strong DSA Fundamentals
-✓ Solve More LeetCode Problems
-✓ Master Graph Algorithms
-□ Master Dynamic Programming
-□ Build More Production-Ready Applications
-□ Improve Backend Development
-□ Learn System Design
-□ Deploy More Projects
-□ Become Internship Ready
-```
-
----
-
-## 💡 Developer Mindset
-
-> **Don't just learn technology. Build with it.**
-
-```text
-Consistency > Motivation
-Practice > Theory
-Projects > Tutorials
-Understanding > Memorization
-Progress > Perfection
-```
-
----
-
-## 🔨 My Build Cycle
-
-```text
-💭 Idea
-   ↓
-📚 Learn
-   ↓
-🧪 Experiment
-   ↓
-💻 Build
-   ↓
-🐛 Debug
-   ↓
-🚀 Deploy
-   ↓
-🔄 Improve
-```
-
----
-
-## 📌 Developer Snapshot
-
-<table align="center">
-<tr>
-<td align="center">
-
-### 💻 Focus
-
-DSA + Development
-
-</td>
-
-<td align="center">
-
-### 🤖 Exploring
-
-AI / ML
-
-</td>
-
-<td align="center">
-
-### ⚙️ Building
-
-Backend Systems
-
-</td>
-
-<td align="center">
-
-### 🎯 Target
-
-Internship Ready
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/NipurnCoder">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-**`Keep Learning • Keep Building • Keep Growing 🚀`**
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+## 🧩 DSA Journey
+
+<div align="center">
+
+### `Problem Solving → Pattern Recognition → Implementation → Optimization`
+
+<br>
+
+<img src="https://img.shields.io/badge/Arrays-Completed-00F7A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked_List-Completed-00F7A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Stack_%26_Queue-Completed-00F7A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trees-Completed-00F7A6?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/BST-Completed-00F7A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphs-Learning-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/BFS_%2F_DFS-Learning-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Topological_Sort-Learning-FFD700?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Dynamic_Programming-Next-9B59B6?style=for-the-badge"/>
+
+</div>
+
+<br>
+
+### 🔥 My DSA Workflow
+
+```text
+             🧠 Understand
+                   ↓
+             🔍 Find Pattern
+                   ↓
+             💻 Implement
+                   ↓
+              🧪 Dry Run
+                   ↓
+             ⏱ Complexity
+                   ↓
+              🔄 Revise
+                   ↓
+             🚀 Git Commit
+```
+
+<div align="center">
+
+<a href="https://github.com/NipurnCoder/DSA-Practice">
+<img src="https://img.shields.io/badge/Explore_My_DSA-Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+## ⚔️ Tech Arsenal
+
+<br>
+
+<div align="center">
+
+<table width="90%">
+
+<tr>
+
+<td align="center" width="50%">
+
+### 💻 Programming
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
+
+<br><br>
+
+`C++` • `Java` • `Python` • `JavaScript`
+
+</td>
+
+<td align="center" width="50%">
+
+### 🌐 Web & Backend
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi"/>
+
+<br><br>
+
+`HTML` • `CSS` • `React` • `Node.js` • `FastAPI`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+
+### 🤖 AI / ML
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<br><br>
+
+`Machine Learning` • `K-Means` • `RFM`
+
+`Prophet` • `SHAP` • `Data Analysis`
+
+</td>
+
+<td align="center" width="50%">
+
+### 🛠️ Tools & Database
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
+
+<br><br>
+
+`MongoDB` • `MySQL` • `Git` • `GitHub` • `VS Code`
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+## 📊 GitHub Analytics
+
+<br>
+
+<div align="center">
+
+<table width="90%">
+
+<tr>
+
+<td align="center" width="50%">
+
+<img src="./profile/stats.svg" width="100%" alt="GitHub Statistics"/>
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="./profile/top-langs.svg" width="100%" alt="Top Languages"/>
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<img src="./profile/activity.svg" width="95%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<br>
+
+<div align="center">
+
+<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+## 🎯 2026 Roadmap
+
+<div align="center">
+
+<table width="85%">
+
+<tr>
+<td align="center"><b>🧩 DSA</b></td>
+<td align="center">Graphs → DP → Advanced Problems</td>
+</tr>
+
+<tr>
+<td align="center"><b>🤖 AI / ML</b></td>
+<td align="center">Build More Intelligent Applications</td>
+</tr>
+
+<tr>
+<td align="center"><b>⚙️ Backend</b></td>
+<td align="center">APIs → Architecture → Deployment</td>
+</tr>
+
+<tr>
+<td align="center"><b>☁️ Cloud</b></td>
+<td align="center">Deployment & Infrastructure</td>
+</tr>
+
+<tr>
+<td align="center"><b>🧠 System Design</b></td>
+<td align="center">Scalable Application Design</td>
+</tr>
+
+<tr>
+<td align="center"><b>💼 Career</b></td>
+<td align="center">Internship & Placement Preparation</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 📈 Current Focus
+
+<div align="center">
+
+```text
+                    CURRENTLY LEARNING
+                           │
+        ┌──────────────────┼──────────────────┐
+        ↓                  ↓                  ↓
+      🧩 DSA             🤖 AI/ML          ⚙️ Backend
+        │                  │                  │
+     Graphs             ML Models          APIs
+     BFS / DFS           Analysis           FastAPI
+     Topological         Forecasting        Architecture
+     Sorting             Optimization       Deployment
+        │                  │                  │
+        └──────────────────┼──────────────────┘
+                           ↓
+                    🚀 BUILD & IMPROVE
+```
+
+</div>
+
+---
+
+## 💡 Developer Philosophy
+
+<br>
+
+<div align="center">
+
+### `"Don't just learn technology. Build with it."`
+
+<br>
+
+| 🧠 Learn | 💻 Build | 🐛 Debug | 🔄 Improve |
+| :------: | :------: | :------: | :--------: |
+| Concepts | Projects | Problems |   Skills   |
+
+</div>
+
+---
+
+## 📌 Quick Snapshot
+
+<div align="center">
+
+<table width="90%">
+
+<tr>
+
+<td align="center">
+
+### 🎓
+
+**B.Tech CSE**
+
+</td>
+
+<td align="center">
+
+### 🧩
+
+**DSA Focused**
+
+</td>
+
+<td align="center">
+
+### 🤖
+
+**AI / ML**
+
+</td>
+
+<td align="center">
+
+### ⚙️
+
+**Backend**
+
+</td>
+
+<td align="center">
+
+### 🚀
+
+**Building**
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45"/>
+
+## 💭 Developer Wisdom
+
+<br>
+
+> **"Consistency beats intensity."**
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" width="95%" alt="Developer Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
+## 🤝 Connect With Me
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/NipurnCoder">
+<img src="https://img.icons8.com/3d-fluency/100/github.png" width="80"/>
+</a>
+
+   
+
+<a href="https://leetcode.com/">
+<img src="https://img.icons8.com/fluency/96/leetcode.png" width="80"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/NipurnCoder">
+<img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/NipurnCoder/DSA-Practice">
+<img src="https://img.shields.io/badge/DSA_Practice-Repository-00F7A6?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+### 🚀 `Learn • Build • Solve • Repeat`
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
 </div>
