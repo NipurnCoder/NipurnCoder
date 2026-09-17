@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=600\&size=24\&duration=3000\&pause=1000\&color=00F7A6\&center=true\&vCenter=true\&width=800\&lines=💻+Building+Practical+Applications;🧩+Solving+DSA+Problems;🤖+Exploring+AI+%26+Machine+Learning;⚙️+Learning+Backend+Development;🚀+Always+Learning%2C+Always+Building)](https://git.io/typing-svg)
 
-<br>
-
 ## 🧑‍💻 About Me
 
 <table>
@@ -61,8 +59,6 @@ const developer = {
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-
-<br><br>
 
 ### 💭 My Focus
 
@@ -349,7 +345,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://camo.githubusercontent.com/078d85717696efd030d9ea5788ffb1e0e2af3f9fb743852fb8ce462643f2be7d/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f747970653d686f72697a6f6e74616c267468656d653d6461726b26626f726465723d74727565" width="100%">
 
 </div>
 
@@ -390,8 +386,6 @@ const developer = {
 <div align="center">
 
 ### 🚀 `Learn • Build • Solve • Repeat`
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
