@@ -349,40 +349,6 @@ const developer = {
 
 </div>
 
-## 🤝 Connect With Me
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/NipurnCoder">
-<img src="https://img.icons8.com/3d-fluency/100/github.png" width="80"/>
-</a>
-
-   
-
-<a href="https://leetcode.com/">
-<img src="https://img.icons8.com/fluency/96/leetcode.png" width="80"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://github.com/NipurnCoder">
-<img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/NipurnCoder/DSA-Practice">
-<img src="https://img.shields.io/badge/DSA_Practice-Repository-00F7A6?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-</div>
-
-<br><br>
-
 <div align="center">
 
 ### 🚀 `Learn • Build • Solve • Repeat`
