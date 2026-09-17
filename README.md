@@ -10,28 +10,6 @@
 
 <br>
 
-<a href="https://github.com/NipurnCoder">
-<img src="https://img.shields.io/badge/GitHub-NipurnCoder-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://github.com/NipurnCoder/DSA-Practice">
-<img src="https://img.shields.io/badge/DSA-Practice-00F7A6?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=NipurnCoder&style=for-the-badge&color=00f7a6" alt="Profile Views"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
 ## 🧑‍💻 About Me
 
 <table>
@@ -138,40 +116,6 @@ const developer = {
 </div>
 
 <br>
-
-### 🔥 My DSA Workflow
-
-```text
-             🧠 Understand
-                   ↓
-             🔍 Find Pattern
-                   ↓
-             💻 Implement
-                   ↓
-              🧪 Dry Run
-                   ↓
-             ⏱ Complexity
-                   ↓
-              🔄 Revise
-                   ↓
-             🚀 Git Commit
-```
-
-<div align="center">
-
-<a href="https://github.com/NipurnCoder/DSA-Practice">
-<img src="https://img.shields.io/badge/Explore_My_DSA-Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
 
 ## ⚔️ Tech Arsenal
 
@@ -308,73 +252,6 @@ const developer = {
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-</div>
-
-## 🎯 2026 Roadmap
-
-<div align="center">
-
-<table width="85%">
-
-<tr>
-<td align="center"><b>🧩 DSA</b></td>
-<td align="center">Graphs → DP → Advanced Problems</td>
-</tr>
-
-<tr>
-<td align="center"><b>🤖 AI / ML</b></td>
-<td align="center">Build More Intelligent Applications</td>
-</tr>
-
-<tr>
-<td align="center"><b>⚙️ Backend</b></td>
-<td align="center">APIs → Architecture → Deployment</td>
-</tr>
-
-<tr>
-<td align="center"><b>☁️ Cloud</b></td>
-<td align="center">Deployment & Infrastructure</td>
-</tr>
-
-<tr>
-<td align="center"><b>🧠 System Design</b></td>
-<td align="center">Scalable Application Design</td>
-</tr>
-
-<tr>
-<td align="center"><b>💼 Career</b></td>
-<td align="center">Internship & Placement Preparation</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-## 📈 Current Focus
-
-<div align="center">
-
-```text
-                    CURRENTLY LEARNING
-                           │
-        ┌──────────────────┼──────────────────┐
-        ↓                  ↓                  ↓
-      🧩 DSA             🤖 AI/ML          ⚙️ Backend
-        │                  │                  │
-     Graphs             ML Models          APIs
-     BFS / DFS           Analysis           FastAPI
-     Topological         Forecasting        Architecture
-     Sorting             Optimization       Deployment
-        │                  │                  │
-        └──────────────────┼──────────────────┘
-                           ↓
-                    🚀 BUILD & IMPROVE
-```
-
-</div>
 
 ---
 
