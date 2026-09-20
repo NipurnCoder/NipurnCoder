@@ -211,7 +211,7 @@ const developer = {
 
 <td align="center" width="50%">
 
-<img src="./profile/stats.svg" width="100%" alt="GitHub Statistics"/>
+  <img src="https://github.com/NipurnCoder/NipurnCoder/raw/main/profile/stats.svg" alt="GitHub Statistics" />
 
 </td>
 
