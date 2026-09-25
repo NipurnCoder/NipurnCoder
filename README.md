@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 NIPURN
+# Hi 👨‍💻, I'm NIPURN
 
 ### `Computer Science Student • DSA Enthusiast • AI/ML Explorer`
 
