@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👨‍💻, I'm NIPURN
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=220&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### `Computer Science Student • DSA Enthusiast • AI/ML Explorer`
 
