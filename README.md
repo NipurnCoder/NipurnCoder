@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=220&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 ### `Computer Science Student • DSA Enthusiast • AI/ML Explorer`
 
@@ -100,14 +100,14 @@ const developer = {
 <img src="https://img.shields.io/badge/Stack_%26_Queue-Completed-00F7A6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Trees-Completed-00F7A6?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/BST-Completed-00F7A6?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Graphs-Learning-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/BFS_%2F_DFS-Learning-FFD700?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Topological_Sort-Learning-FFD700?style=for-the-badge"/>
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Dynamic_Programming-Next-9B59B6?style=for-the-badge"/>
 
@@ -133,7 +133,7 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript"/>
 
-<br><br>
+<br>
 
 `C++` • `Java` • `Python` • `JavaScript`
 
@@ -147,7 +147,7 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi"/>
 
-<br><br>
+<br>
 
 `HTML` • `CSS` • `React` • `Node.js` • `FastAPI`
 
@@ -165,7 +165,7 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=python"/>
 
-<br><br>
+<br>
 
 `Machine Learning` • `K-Means` • `RFM`
 
@@ -181,7 +181,7 @@ const developer = {
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode"/>
 
-<br><br>
+<br>
 
 `MongoDB` • `MySQL` • `Git` • `GitHub` • `VS Code`
 
@@ -201,15 +201,15 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Analytics
+<!-- ## 📊 GitHub Analytics
 
-<br>
+<!-- <br>
 
 <div align="center">
 
 <table width="90%">
 
-<tr>
+<tr> -->
 
 <!-- <td align="center" width="50%">
 
@@ -217,7 +217,7 @@ const developer = {
 
 </td> -->
 
-<td align="center" width="50%">
+<!-- <td align="center" width="50%">
 
 <img src="./profile/top-langs.svg" width="100%" alt="Top Languages"/>
 
@@ -227,7 +227,7 @@ const developer = {
 
 </table>
 
-<br>
+<br> -->
 
 ---
 
@@ -242,14 +242,22 @@ const developer = {
 </div> -->
 
 <br>
-## 📊 GitHub Profile & Daily Streak
+
+### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipurnCoder&theme=tokyonight&hide_border=true" height="165" />
+    <img src="./profile/top-langs.svg" width="50%" alt="Top Languages"/>
 </p>
 
 <br>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
 
 ---
 
