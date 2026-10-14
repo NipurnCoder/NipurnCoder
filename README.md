@@ -211,11 +211,11 @@ const developer = {
 
 <tr>
 
-<td align="center" width="50%">
+<!-- <td align="center" width="50%">
 
   <img src="https://github.com/NipurnCoder/NipurnCoder/raw/main/profile/stats.svg" alt="GitHub Statistics" />
 
-</td>
+</td> -->
 
 <td align="center" width="50%">
 
@@ -231,15 +231,25 @@ const developer = {
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ## 🏆 GitHub Trophies
 
-<br>
+<!-- <br>
 
 <div align="center">
 
 <img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies"/>
 
-</div>
+</div> -->
+
+<br>
+## 📊 GitHub Profile & Daily Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipurnCoder&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<br>
 
 ---
 
