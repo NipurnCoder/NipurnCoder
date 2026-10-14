@@ -4,6 +4,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
+
 ### `Computer Science Student • DSA Enthusiast • AI/ML Explorer`
 
 <br>
@@ -361,6 +367,6 @@ const developer = {
 
 ### 🚀 `Learn • Build • Solve • Repeat`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer"/>
 
 </div>
