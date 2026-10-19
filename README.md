@@ -2,7 +2,7 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:ec4899&height=220&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/> -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=Hi%20%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%2C%20I'm%20NIPURN&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <div align="center">
 
@@ -266,7 +266,7 @@ const developer = {
 </div>
 
 ---
-
+<!--
 ## 💡 Developer Philosophy
 
 <br>
@@ -338,7 +338,7 @@ const developer = {
 </table>
 
 </div>
-
+-->
 ---
 
 <div align="center">
@@ -365,8 +365,10 @@ const developer = {
 
 <div align="center">
 
-### 🚀 `Learn • Build • Solve • Repeat`
+<!-- ### 🚀 `Learn • Build • Solve • Repeat`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=footer"/> -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Learn%20%E2%80%A2%20Build%20%E2%80%A2%20Solve%20%E2%80%A2%20Repeat&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 </div>
