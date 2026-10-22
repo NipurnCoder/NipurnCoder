@@ -33,7 +33,8 @@ const developer = {
     focus: {
         dsa: true,
         ai_ml: true,
-        backend: true
+        development: true,
+        system design: true        
     },
 
     languages: {
