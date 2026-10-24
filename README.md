@@ -361,6 +361,81 @@ const developer = {
 
 ---
 
+<!-- 🤝 CONNECT WITH ME -->
+
+<h2 align="center">
+   🔗 Connect With Me 🔗 
+</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://www.linkedin.com/in/nipurn20/">
+        <img src="https://img.icons8.com/fluency/144/linkedin.png" width="110" alt="LinkedIn"/>
+      </a>
+      <br><br>
+      <a href="https://www.linkedin.com/in/nipurn20/">
+        <h3>LinkedIn</h3>
+      </a>
+      <sub><i>Professional Network</i></sub>
+    </td>
+
+  <td align="center" width="200">
+      <a href="https://github.com/NipurnCoder">
+        <img src="https://img.icons8.com/fluency/144/github.png" width="110" alt="GitHub"/>
+      </a>
+      <br><br>
+      <a href="https://github.com/NipurnCoder">
+        <h3>GitHub</h3>
+      </a>
+      <sub><i>Code Repository</i></sub>
+    </td>
+
+ <td align="center" width="200">
+      <a href="mailto:nipurnkumar487@gmail.com">
+        <img src="https://img.icons8.com/fluency/144/gmail.png" width="110" alt="Email"/>
+      </a>
+      <br><br>
+      <a href="mailto:nipurnkumar487@gmail.com">
+        <h3>Email</h3>
+      </a>
+      <sub><i>Direct Contact</i></sub>
+    </td>
+
+ <td align="center" width="200">
+      <a href="https://www.instagram.com/nipurn_20/">
+        <img src="https://img.icons8.com/fluency/144/instagram-new.png" width="110" alt="Instagram"/>
+      </a>
+      <br><br>
+      <a href="https://www.instagram.com/nipurn_20/">
+        <h3>Instagram</h3>
+      </a>
+      <sub><i>Social Updates</i></sub>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/NipurnCoder">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <i>✨ Let's connect, collaborate, and build something amazing! ✨</i>
+</p>
+
 <div align="center">
 
 </div>
