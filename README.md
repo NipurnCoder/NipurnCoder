@@ -418,16 +418,16 @@ const developer = {
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/nipurn20/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/NipurnCoder">
     <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:nipurnkumar487@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/">
+  <a href="https://www.instagram.com/nipurn_20/">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
@@ -435,6 +435,12 @@ const developer = {
 <p align="center">
   <i>✨ Let's connect, collaborate, and build something amazing! ✨</i>
 </p>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+</div>
 
 <div align="center">
 
