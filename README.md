@@ -252,13 +252,47 @@ const developer = {
 
 <br>
 
-### 📊 GitHub Analytics
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NipurnCoder&theme=tokyonight&hide_border=true" height="165" />
     <img src="./profile/top-langs.svg" width="50%" alt="Top Languages"/>
+</p> -->
+
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=NipurnCoder&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=NipurnCoder&theme=tokyonight&hide_border=true"
+    height="180"
+    alt="GitHub Streak"
+  />
 </p>
+
+<h2 align="center">💻 Top Languages</h2>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=NipurnCoder&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    width="55%"
+    alt="Top Languages"
+  />
+</p>
+
+<!-- ================= Profile Views ================= -->
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=NipurnCoder&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
+
 
 <br>
 
