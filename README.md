@@ -286,12 +286,12 @@ const developer = {
 
 <!-- ================= Profile Views ================= -->
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=NipurnCoder&label=PROFILE+VIEWS&color=7aa2f7&style=for-the-badge"
     alt="Profile Views"
   />
-</p>
+</p> -->
 
 
 <br>
